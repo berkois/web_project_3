@@ -1,0 +1,8 @@
+@import url(../vendors/normalize.css);
+@import url(../fonts/inter.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/logo/logo.css);
+
+h4 {
+  color: #aaaaaa;
+}
