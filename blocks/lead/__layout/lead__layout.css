@@ -1,0 +1,5 @@
+.lead__layout {
+  position: absolute;
+  z-index: 1;
+  mix-blend-mode: hue;
+}
