@@ -1,0 +1,16 @@
+.place {
+  margin: 0 0 80px;
+  max-width: 984px;
+  display: grid;
+  grid-template-columns: 460px 484px;
+  grid-template-rows: auto 460px auto;
+  grid-gap: 48px 40px;
+  grid-template-areas:
+    "title website"
+    "image paragraphs"
+    "button paragraphs";
+}
+
+.place:last-of-type {
+  margin-bottom: 0;
+}

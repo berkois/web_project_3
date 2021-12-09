@@ -1,0 +1,9 @@
+.cover__content {
+  width: 656px;
+  min-height: 254px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  z-index: 1;
+}
