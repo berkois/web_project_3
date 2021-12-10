@@ -1,6 +1,6 @@
 .intro__paragraphs {
   margin: 0;
-  padding-right: 65px;
+  max-width: 720px;
   display: flex;
   flex-direction: column;
 }

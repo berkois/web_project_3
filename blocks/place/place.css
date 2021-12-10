@@ -1,8 +1,11 @@
 .place {
-  margin: 0 0 80px;
+  margin: 0 auto;
+  padding: 80px 24px 0;
+  width: 100%;
   max-width: 984px;
+  box-sizing: border-box;
   display: grid;
-  grid-template-columns: 460px 484px;
+  grid-template-columns: 1fr 1.05fr;
   grid-template-rows: auto 460px auto;
   grid-gap: 48px 40px;
   grid-template-areas:
@@ -11,6 +14,23 @@
     "button paragraphs";
 }
 
-.place:last-of-type {
-  margin-bottom: 0;
+.place:first-of-type {
+  padding-top: 0;
+}
+
+@media screen and (max-width: 768px) {
+  .place {
+    grid-template-columns: 1fr 1.03fr;
+    grid-template-rows: auto 340px auto;
+    grid-column-gap: 28px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .place {
+    padding-top: 50px;
+    display: flex;
+    flex-direction: column;
+    align-items: baseline;
+  }
 }

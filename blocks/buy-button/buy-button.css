@@ -14,3 +14,24 @@
   line-height: 1.22;
   grid-area: button;
 }
+
+@media screen and (max-width: 580px) {
+  .buy-button {
+    font-size: 0.9rem;
+    line-height: 1.4;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .buy-button {
+    font-size: 0.8rem;
+    line-height: 1.5;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .buy-button {
+    font-size: 0.7rem;
+    line-height: 1.6;
+  }
+}

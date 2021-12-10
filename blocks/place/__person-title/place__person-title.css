@@ -5,3 +5,9 @@
   font-size: 0.75rem;
   line-height: 1.21;
 }
+
+@media screen and (max-width: 540px) {
+  .place__person-title {
+    font-size: 0.65rem;
+  }
+}
