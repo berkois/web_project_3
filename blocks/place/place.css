@@ -26,11 +26,25 @@
   }
 }
 
+@media screen and (max-width: 500px) {
+  .place {
+    grid-template-columns: 1fr 1.03fr;
+    grid-template-rows: auto 340px auto;
+    grid-column-gap: 16px;
+  }
+}
+
 @media screen and (max-width: 320px) {
   .place {
-    padding-top: 50px;
-    display: flex;
-    flex-direction: column;
-    align-items: baseline;
+    padding: 50px 16px 0;
+    grid-template-columns: 100%;
+    grid-template-rows: repeat(5, auto);
+    grid-template-areas:
+      "title"
+      "website"
+      "image"
+      "paragraphs"
+      "button";
+    grid-gap: 30px;
   }
 }

@@ -5,3 +5,10 @@
   width: auto;
   height: auto;
 }
+
+@media screen and (max-width: 320px) {
+  .place__image {
+    margin: 0 -16px 0;
+    max-width: calc(100% + 32px);
+  }
+}

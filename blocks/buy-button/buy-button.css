@@ -35,3 +35,18 @@
     line-height: 1.6;
   }
 }
+
+@media screen and (max-width: 420px) {
+  .buy-button {
+    font-size: 0.6rem;
+    line-height: 1.7;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .buy-button {
+    max-width: 288px;
+    font-size: 1.125rem;
+    line-height: 100%;
+  }
+}
