@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://github.com/berkois/web_project_3">
+  <a href="https://berkois.github.io/web_project_3/">
     <img src="./images/logo.svg" alt="Logo">
   </a>
 <h1>From Homeland to Homeland</h1>
