@@ -1,7 +1,9 @@
-<h1>From Homeland to Homeland</h1>
-  <a href="https://github.com/berkois/web_project_3" align="center">
-    <img src="./images/logo.svg" alt="Logo" width="250" height="250">
+<div align="center">
+  <a href="https://github.com/berkois/web_project_3">
+    <img src="./images/logo.svg" alt="Logo">
   </a>
+<h1>From Homeland to Homeland</h1>
+</div>
 
 <!-- TABLE OF CONTENTS
 <details>
@@ -28,9 +30,9 @@ The project is built using the following tools:
 
 ### Contact Me
 
-Israel Berko,
+Israel Berko
 
-berkois@gmail.com
+Email: berkois@gmail.com
 
 https://github.com/berkois/web_project_3
 
