@@ -1,9 +1,10 @@
-<h1 align="center">From Homeland to Homeland</h1>
-<br />
 <div align="center">
   <a href="https://github.com/berkois/web_project_3" align="center">
     <img src="./images/logo.svg" alt="Logo" width="250" height="250">
   </a>
+<br />
+<h1>From Homeland to Homeland</h1>
+</div>
 
 <!-- TABLE OF CONTENTS
 <details>
@@ -22,13 +23,18 @@ This is a project that showcases the hometowns of some of Practicum's employees.
 
 ### Built With
 
-- [html](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [css](https://www.w3.org/Style/CSS/Overview.en.html)
-- [figma](https://www.figma.com/)
+The project is built using the following tools:
+
+- ["html"](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- ["css"](https://www.w3.org/Style/CSS/Overview.en.html)
+- ["figma"](https://www.figma.com/)
 
 ### Contact Me
 
-Israel Berko, berkois@gmail.com
+Israel Berko,
+
+berkois@gmail.com
+
 https://github.com/berkois/web_project_3
 
 <p align="right">(<a href="#top">back to top</a>)</p>
