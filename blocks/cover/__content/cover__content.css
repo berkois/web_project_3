@@ -4,8 +4,10 @@
   justify-content: space-between;
   align-items: center;
   z-index: 1;
+  max-width: 100%;
 }
-@media (min-width: 650px) {
+
+/* @media (min-width: 650px) {
   .cover__content {
     width: 656px;
     min-height: 254px;
@@ -24,4 +26,4 @@
     width: 280px;
     min-height: 254px;
   }
-}
+} */

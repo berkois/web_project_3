@@ -9,11 +9,27 @@
   align-items: center;
   background-image: url(../../images/background.png);
   background-size: cover;
+  transition: transform 1.5s ease 0s;
+}
+
+.cover:hover {
+  transform: scale(1, 1.013);
+}
+
+.cover:hover .cover__layout {
+  opacity: 0.8;
 }
 
 @media screen and (max-width: 768px) {
   .cover {
     margin: 92px 0 0;
     max-height: 746px;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .cover {
+    margin: 92px 0 0;
+    max-height: 254px;
   }
 }

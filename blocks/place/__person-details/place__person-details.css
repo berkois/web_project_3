@@ -1,12 +1,6 @@
 .place__person-details {
   margin: 8px 0 0;
   font-weight: 400;
-  font-size: 1.125rem;
+  font-size: 18px;
   line-height: 1.22;
-}
-
-@media screen and (max-width: 540px) {
-  .place__person-details {
-    font-size: 1rem;
-  }
 }

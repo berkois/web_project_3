@@ -1,18 +1,14 @@
 .lead__image {
   margin: 64px auto 0;
+  width: 100%;
   max-width: 984px;
-  max-height: 615px;
-  text-align: center;
   background-image: url(../../../images/kalegin-michail-179870-unsplash.png);
   background-size: cover;
   box-sizing: border-box;
 }
-/* somehow, as soon as the screen is lower than 984px, which is the max-witdh of the div 'lead__image' with the background image, the layout image remains ~4px smaller than the div */
 
 @media screen and (max-width: 768px) {
   .lead__image {
-    max-width: 768px;
-    max-height: 480px;
     margin: 64px 0 0;
   }
 }

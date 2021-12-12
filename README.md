@@ -1,19 +1,40 @@
-# Project 3: From Homeland to Homeland
-### Overview  
-* Intro  
-* Figma  
-* Images  
-  
-**Intro**    
-  
-This is a project that showcases the hometowns of some of Practicum's employees. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.  
-  
-**Figma**  
-  
-* [Link to the project on Figma](https://www.figma.com/file/1zCYcflj6BJx5VqOvXU9nb/Sprint-3-From-Homeland-to-Homeland-desktop-mobile?node-id=0%3A1)  
-  
-**Images**  
-  
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
-  
-Good luck and have fun!  
+<div id="top"></div>
+
+[![LinkedIn][linkedin-shield]][https://www.linkedin.com/in/israelberko/]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/berkois/web_project_3" align="center">
+    <img src="./images/logo.svg" alt="Logo" width="80" height="80">
+  </a>
+
+<h3 align="center">project_title</h3>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+</details>
+
+<!-- ABOUT THE PROJECT -->
+
+## About The Project
+
+This is a project that showcases the hometowns of some of Practicum's employees. it has been done as part of the submission #3 in Practicum Yandex' Web development course. this nice website introduces the use of Flex, Grid and Media queries to have a page that adapts nicely between screen sizes.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
+### Built With
+
+- [html](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [css](https://www.w3.org/Style/CSS/Overview.en.html)
+- [figma](https://www.figma.com/)
+
+<p align="right">(<a href="#top">back to top</a>)</p>

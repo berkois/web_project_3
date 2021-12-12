@@ -10,43 +10,25 @@
   text-decoration: none;
   color: inherit;
   font-weight: 600;
-  font-size: 1.125rem;
+  font-size: 18px;
   line-height: 1.22;
   grid-area: button;
+  transition: background-color 0.5s ease 0s;
 }
 
-@media screen and (max-width: 580px) {
+.buy-button:hover {
+  background-color: #0063d2;
+}
+
+@media screen and (min-width: 500px) and (max-width: 580px) {
   .buy-button {
-    font-size: 0.9rem;
+    font-size: 14.5px;
     line-height: 1.4;
   }
 }
 
 @media screen and (max-width: 500px) {
   .buy-button {
-    font-size: 0.8rem;
-    line-height: 1.5;
-  }
-}
-
-@media screen and (max-width: 460px) {
-  .buy-button {
-    font-size: 0.7rem;
-    line-height: 1.6;
-  }
-}
-
-@media screen and (max-width: 420px) {
-  .buy-button {
-    font-size: 0.6rem;
-    line-height: 1.7;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .buy-button {
-    max-width: 288px;
-    font-size: 1.125rem;
-    line-height: 100%;
+    margin: 0 16px 0;
   }
 }
