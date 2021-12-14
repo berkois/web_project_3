@@ -1,20 +1,6 @@
-<div align="center">
-  <a href="https://berkois.github.io/web_project_3/">
-    <img src="./images/logo.svg" alt="Logo">
-  </a>
-<h1>From Homeland to Homeland</h1>
-</div>
+# **From Homeland to Homeland**
 
-<!-- TABLE OF CONTENTS
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li><a href="#about-the-project">About The Project</a></li>
-    <li><a href="#built-with">Built With</a></li>
-    <li><a href="#contact-me">Contact Me</a></li>
-</details> -->
-
-<!-- ABOUT THE PROJECT -->
+[![logo](./images/logo.svg)](https://berkois.github.io/web_project_3/)
 
 ## About The Project
 
@@ -36,4 +22,4 @@ Email: berkois@gmail.com
 
 https://github.com/berkois/web_project_3
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+###### [back to top](#top)

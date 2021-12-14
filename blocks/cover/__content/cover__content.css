@@ -6,24 +6,3 @@
   z-index: 1;
   max-width: 100%;
 }
-
-/* @media (min-width: 650px) {
-  .cover__content {
-    width: 656px;
-    min-height: 254px;
-  }
-}
-
-@media screen and (max-width: 650px) {
-  .cover__content {
-    width: 320px;
-    min-height: 254px;
-  }
-}
-
-@media screen and (max-width: 320px) {
-  .cover__content {
-    width: 280px;
-    min-height: 254px;
-  }
-} */

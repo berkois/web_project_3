@@ -4,6 +4,7 @@
   font-size: 72px;
   line-height: 1.055;
   grid-area: title;
+  align-self: flex-end;
 }
 
 @media screen and (max-width: 950px) {
@@ -22,6 +23,7 @@
 @media screen and (max-width: 500px) {
   .place__title {
     padding: 0 16px 0;
-    font-size: 32;
+    font-size: 32px;
+    line-height: 1.09;
   }
 }

@@ -3,3 +3,9 @@
   padding-top: 118px;
   text-align: center;
 }
+
+@media screen and (max-width: 768px) {
+  .photo-grid {
+    padding-top: 90px;
+  }
+}

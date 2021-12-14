@@ -1,8 +1,9 @@
 .lead__title {
   margin: 0 auto;
-  padding: 90px 24px 0;
+  padding-top: 90px;
   box-sizing: border-box;
-  max-width: 841px;
+  width: 90%;
+  max-width: 793px;
   font-size: 96px;
   font-weight: 900;
   line-height: 1.04;
@@ -20,6 +21,5 @@
   .lead__title {
     padding: 50px 16px 0;
     font-size: 40px;
-    line-height: 1.1;
   }
 }

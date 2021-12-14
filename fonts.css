@@ -23,4 +23,3 @@
   font-display: swap;
   src: local(""), url("./vendors/fonts/Inter-Black.woff2") format("woff2"),
     url("./vendors/fonts/Inter-Black.woff") format("woff");
-}
