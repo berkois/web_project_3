@@ -10,6 +10,8 @@
 
 This is a project that showcases the hometowns of some of Practicum's employees. it has been done as part of the submission #3 in Practicum Yandex' Web development course. this nice website introduces the use of Flex, Grid and Media queries to have a page that adapts nicely between screen sizes.
 
+link to the webpage: https://berkois.github.io/web_project_3
+
 ### Built With
 
 The project is built using the following tools:
