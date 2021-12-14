@@ -1,8 +1,9 @@
 <div align="center">
   <a href="https://berkois.github.io/web_project_3">
-    <img src="./images/logo.css" alt="logo">
+    <img src="./images/logo.svg" alt="logo">
   </a>
 </div>
+
 # **From Homeland to Homeland**
 
 ## About The Project
